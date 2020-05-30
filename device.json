@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "oem": "Oppo",
+        "device": "Realme 1",
+        "filename": "lineage-17.1-20200529-UNOFFICIAL-CPH1859.zip",
+        "download": "https://sourceforge.net/projects/realme1/lineage-17.1/lineage-17.1-20200529-UNOFFICIAL-CPH1859.zip/download",
+        "timestamp": ,
+        "md5": "",
+        "size": ,
+        "version": "17.1",
+        "buildtype": "Beta"
+    }
+  ]
+}
