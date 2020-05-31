@@ -1,15 +1,13 @@
 {
   "response": [
     {
-        "oem": "Oppo",
-        "device": "CPH1859",
-        "filename": "lineage-17.1-20200529-UNOFFICIAL-CPH1859.zip",
-        "download": "https://sourceforge.net/projects/realme1/lineage-17.1/lineage-17.1-20200529-UNOFFICIAL-CPH1859.zip/download",
-        "timestamp": ,
-        "md5": "",
-        "size": ,
-        "version": "17.1",
-        "buildtype": "Beta"
+      "datetime": 1590890187,
+      "filename": "lineage-17.1-20200531-UNOFFICIAL-CPH1859.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": ,
+      "url": "https://sourceforge.net/projects/realme1/lineage-17.1/lineage-17.1-20200531-UNOFFICIAL-CPH1859.zip/download",
+      "version": "17.1"
     }
   ]
 }
