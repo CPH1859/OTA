@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1609669867",
- "filename": "ProjectSakura-4.R-VANILLA-20210103-1031-CPH1859-OFFICIAL.zip",
- "id": "77a0c4995762baef3d7740d0ab6f38bd",
+ "datetime": "1622136745",
+ "filename": "ProjectSakura-5.R-GAPPS-20210527-1732-CPH1859-OFFICIAL.zip",
+ "id": "9fd054b647c0e8188e2b5da8887ec937",
  "romtype":"nightly",
- "size": 698015540,
- "url": "https://cloud.rbinternationalnetwork.workers.dev/ProjectSakura-4.R-VANILLA-20210103-1031-CPH1859-OFFICIAL.zip",
- "version": "4.R"
+ "size": 1079378777,
+ "url": "https://master.dl.sourceforge.net/project/project-sakura/realmeme1/ProjectSakura-5.R-GAPPS-20210527-1732-CPH1859-OFFICIAL.zip",
+ "version": "5.R"
 }
 ]
 }
